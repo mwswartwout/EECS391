@@ -18,4 +18,4 @@ Wu, Ying, and Thomas S. Huang. "Vision-based gesture recognition: A review." Ges
 		A: No physical actuators, but should have a set of pre-defined mathematical manipulations that it can perform.
 		S: Must be able to read/interpret the given theorem, the constructs it is aware of, the manipulations it is capable of, and be able to determine when it has reached the solution/goal state.
 
-5. 
+5. A^S
